@@ -30,4 +30,4 @@ eyJoaXN0b3J5IjpbLTE2MTA4MTkyNTFdfQ==
 
 
 
-I will be attempting to work with this simulation and try to attmpt variety of control strategesm such as LQR, ILQR. Might add estimator component. 
+I will be attempting to work with this simulation and try to attmpt variety of control strategems such as LQR, ILQR. Might add estimator component. 
