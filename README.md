@@ -27,3 +27,7 @@ This is the main file of the simulator. It uses OpenGL to display the state of t
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MTA4MTkyNTFdfQ==
 -->
+
+
+
+I will be attempting to work with this simulation and try to attmpt variety of control strategesm such as LQR, ILQR. Might add estimator component. 
